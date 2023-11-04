@@ -7,3 +7,13 @@
 #logo{
     border-radius: 49%;
 }
+
+#int2{
+    width:540px ;
+    height:400px;
+}
+
+#imagen_fondo{
+    background-image: url("/landing/assets/img/about.jpg");
+    background-size: cover;
+}
